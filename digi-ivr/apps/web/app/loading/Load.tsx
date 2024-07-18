@@ -11,14 +11,13 @@ const Load = ({ isOpen }: LoaderProps) => {
     if (isOpen) {
       const interval = setInterval(() => {
         setProgress((oldProgress) => {
-          if (oldProgress === 100) {
+          if (oldProgress === 200) {
             clearInterval(interval);
-            return 100;
           }
-          const newProgress = oldProgress + 10;
+          const newProgress = oldProgress + 20;
           return newProgress;
         });
-      }, 1000);
+      }, 500);
       return () => {
         clearInterval(interval);
       };

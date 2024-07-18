@@ -1,0 +1,1740 @@
+{
+  "sessionId": "c0e170a07b76a7025cb724d1e38cf3b6",
+  "isCompleted": false,
+  "data": {
+    "httpCode": "200",
+    "channel": "api",
+    "name": "finalPayload",
+    "type": "string",
+    "value": {
+      "data": {
+        "startPageId": "d3340705-d028-4303-9015-7891e83a2a40",
+        "metadata": {
+          "transactionId": "447996428394"
+        },
+        "pages": [
+          {
+            "id": "d3340705-d028-4303-9015-7891e83a2a40",
+            "topNav": {
+              "logo": "ee.svg",
+              "greeting": "Hi",
+              "message": "What can we help you with today?"
+            },
+            "banner": {
+              "type": "default",
+              "title": "Welcome to EE's new Digital service",
+              "body": "Let's get you started!                                                            Please select an option from below. You can use the arrows to navigate or the home icon to return to the start."
+            },
+            "menuItemIds": [
+              "3a24e016-bd1c-4836-a677-4fa8575402c8",
+              "2b56c1aa-549e-4217-96a0-ae40cd580a7d",
+              "fcee6c74-6319-4388-bb40-ebb2e7c6983f"
+            ]
+          },
+          {
+            "id": "03776dc6-30ae-4031-82bc-120ff735a272",
+            "sheetNav": {
+              "title": "Broadband",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "menuItemIds": [
+              "2a79efc9-04ac-4516-8cc5-0f75989f33a8",
+              "2411b1ef-60ab-4834-a4e0-ae4b0fcb00fe",
+              "df2b8a90-fabb-4d70-9cd3-4a26690f61c2",
+              "a816b8af-4901-4e75-a29e-7dacc263e7f2",
+              "c1008ed0-785f-4d40-bb94-0922ec8eb9db"
+            ]
+          },
+          {
+            "id": "c681adbb-f457-40ae-a5d1-28755082a4b1",
+            "sheetNav": {
+              "title": "Tech",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "menuItemIds": [
+              "bd0e383e-2405-45fb-a2ba-28c9fd614082",
+              "c6cdc30b-4da0-4e37-9ec6-23b6e47bc55d"
+            ]
+          },
+          {
+            "id": "fc0d010e-3d9e-44fe-b9a7-b1cbb34d5177",
+            "sheetNav": {
+              "title": "Billing",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "menuItemIds": [
+              "55023482-7cf3-4aa2-9bea-14ac59cc3691",
+              "0bb37054-95e0-444c-928d-c645a2f3f38e"
+            ]
+          },
+          {
+            "id": "08a1f250-cc14-4431-92d5-793029ea66a5",
+            "sheetNav": {
+              "title": "Home Move",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "menuItemIds": [
+              "e7a805e1-d83a-44cc-86bf-4f0f8390f8c4",
+              "09ccfc72-b6c1-47f3-ba60-b12e39a44666"
+            ]
+          },
+          {
+            "id": "8b7175c5-cdd1-4d20-9ead-80b91c968a0a",
+            "sheetNav": {
+              "title": "Connected",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "menuItemIds": [
+              "729b3cf2-dbb0-4909-9c0b-10c0d10e3a87",
+              "24ad9037-636e-4194-a04b-d422c798cb88"
+            ]
+          },
+          {
+            "id": "37cfa7e74-42c1-4d17-b1ff-a7946af43f66",
+            "sheetNav": {
+              "title": "Account Type",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "banner": {
+              "type": "default",
+              "title": "How do you pay?",
+              "body": "If you pay by direct debit or at the end of each month choose pay monthly. If you top up it's pay as you go."
+            },
+            "menuItemIds": [
+              "b0e6e549-2d89-46e9-8031-78d1ab2b3bfd",
+              "c0710b85-a77d-4a32-83ae-9383455da68a"
+            ]
+          },
+          {
+            "id": "7219d840-9941-4a13-ba9a-d9b1de79678c",
+            "sheetNav": {
+              "title": "PAYM Menu",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "menuItemIds": [
+              "96db0124-e033-425f-9158-d647aa54638c",
+              "4449260e-459f-410b-8546-c1ec0fd1f9d8",
+              "c05f3f08-c0c9-4b5b-8f92-5fec9a8c9704",
+              "197e3bde-7fb8-42e2-ba03-4928ef2b66d9",
+              "af58da60-b2c4-4afa-ae1f-3cda44de6f95"
+            ]
+          },
+          {
+            "id": "c11d5e00-924f-40d7-b1b2-2348c85ef3ba",
+            "sheetNav": {
+              "title": "Loyalty",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "menuItemIds": [
+              "3c52f75b-a8ec-44f5-a8ca-35fc6668ae07",
+              "8598e2ff-25d5-42be-8de0-f6f9bc95558b",
+              "1d9a43eb-d239-4349-9e41-95f9a66234e7",
+              "6fd7c4dc-17cb-4b75-8cd9-f76d2595a074"
+            ]
+          },
+          {
+            "id": "85409449-2b8d-48d6-b836-c2b381a6c58c",
+            "sheetNav": {
+              "title": "PAYG Menu",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "menuItemIds": [
+              "c928ea39-5100-445c-aec1-8879ebcc9310",
+              "7f5d7616-fac8-4dc6-b23b-ad42127311a6",
+              "a3df030e-0910-4177-a53a-4b436fcaabcb",
+              "30222a3c-9bd2-48a3-839a-f3c3850ea635",
+              "fa6cb767-f96e-4578-9b10-b1e384f34095"
+            ]
+          },
+          {
+            "id": "c38b650e-d1bf-47a3-a811-94edfd48ff34",
+            "sheetNav": {
+              "title": "Billing",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "menuItemIds": [
+              "cd7cb783-5e46-44c4-a7c0-8658b624c6b2",
+              "a7fb0afd-7dc7-4a25-883a-a45599576a36"
+            ]
+          },
+          {
+            "id": "1b82f00c-fe10-45a9-8eb7-e0242c4736ee",
+            "sheetNav": {
+              "title": "Loyalty",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "menuItemIds": [
+              "4a39a15c-5e17-4d9e-8a2b-40b1ef6f9e35",
+              "fcfae5db-1a8f-49ec-99d4-d90e94891cbe"
+            ]
+          },
+          {
+            "id": "dcfea6da-6914-4793-8bb0-c9e842a645f8",
+            "sheetNav": {
+              "title": "Delivery",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "banner": {
+              "type": "default",
+              "title": "Information about your delivery",
+              "body": "You'll receive a text message from our DPD courier the day before delivery which confirms your delivery date, gives you options to change your delivery time and provides a website link you can use to track or change your order on the DPD  website. On the day of delivery you'll receive a further text message containing a 1 hour  window your parcel will be delivered within along with the same website link to track or change your delivery.  If that's it for now please return to Home."
+            }
+          },
+          {
+            "id": "b2c7c087-bf55-40a9-916e-13e1825814d8",
+            "sheetNav": {
+              "title": "Mobile",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "menuItemIds": [
+              "86088572-9f38-4902-a78b-2ca3ecae3503",
+              "56873d79-e092-4dbc-a3e7-b2bdb5c2b9cd",
+              "b5b685f6-3bd1-41f6-86f6-f7a62125c584",
+              "af24ca08-ea5a-42d6-9756-5c7a75517e96",
+              "b80d4694-cb9a-4858-9120-60a01ff520a0",
+              "2df0e30a-05c2-429b-904e-12818e6836ea",
+              "cc6d6f4a-b64c-426d-a58d-b20ee0ad635f"
+            ]
+          },
+          {
+            "id": "0a08b8db-2467-41a7-841a-f525cafa8884",
+            "sheetNav": {
+              "title": "Customer Care",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "banner": {
+              "type": "default",
+              "title": "Current Data Usage",
+              "body": ""
+            },
+            "menuItemIds": [
+              "2fefad43-12be-4a89-8c32-050fb5a9c13f",
+              "dee65308-e870-4838-8664-ff2539e03d82",
+              "9fe2f00b-71b1-48a3-a52e-09be4baea742",
+              "180257a9-55d8-465d-8d1b-7043817231b7"
+            ]
+          },
+          {
+            "id": "3a7db3c9-c5fa-4800-9af1-aaa1f520998e",
+            "sheetNav": {
+              "title": "Billing",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "banner": {
+              "type": "default",
+              "title": "Bill Summary",
+              "body": ""
+            },
+            "menuItemIds": [
+              "70749f10-cf4e-499a-9742-3cc1cba10b9f",
+              "3d371f77-cf50-4089-a5da-c95181f217d4",
+              "57880f09-d62e-4a85-a9c4-7a0b6c521d34"
+            ]
+          },
+          {
+            "id": "42bedd4c-a42b-40a2-83e3-41efc08e2da6",
+            "sheetNav": {
+              "title": "Contact",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "menuItemIds": [
+              "ac289adf-5df2-4ecd-8baa-808d8e983cd6",
+              "254c9e51-f48c-4dc3-8af3-0608a9369887"
+            ]
+          },
+          {
+            "id": "ed3da972-60da-4183-9c0a-0273618b9492",
+            "sheetNav": {
+              "title": "Call Back",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "input": {
+              "message": "Please type a short summary of your query and one of our dedicated team will then call you back within the next 15 minutes to help",
+              "maxLength": 150,
+              "minLines": 5,
+              "hint": "",
+              "minCharacterCount": 2,
+              "showCharacterCount": true,
+              "button": {
+                "title": "SUBMIT",
+                "actionId": "BOOKCALLBACK_MOBILE_BILLING"
+              }
+            }
+          },
+          {
+            "id": "4e220bd5-1fb4-4bb0-8a20-21c3685efb1d",
+            "sheetNav": {
+              "title": "Plan Details",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "menuItemIds": [
+              "db59b60b-b979-4871-be5c-8818fa53e751",
+              "980137c2-18fd-4a8d-9f95-d277dc3fd1c7",
+              "840ea67b-d1cc-49fa-a3f5-304d84a8151a",
+              "b6370af7-312f-4ea4-aff9-aadc5c9fe91c",
+              "30b7d4cf-75cc-4acf-b020-f8af111ec631",
+              "07adf121-5169-46d6-ab79-0938d0a099dc"
+            ]
+          },
+          {
+            "id": "63709e3a-a131-48d6-8e67-7db109e39874",
+            "sheetNav": {
+              "title": "Account",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "menuItemIds": [
+              "abc4fa90-e18c-40a0-8ecc-2570afbf45fb",
+              "fe806bcb-e029-4541-a853-497c7bbcc187",
+              "ccc8f8be-a09a-4f6b-bde6-ced24b6b2582",
+              "66a07846-40c6-419d-8c1b-eba517beddc0",
+              "de3ae305-c825-4bbf-89ba-cd7447fdc62d",
+              "97e2c3eb-b375-4e6a-a881-b53f949b1ade",
+              "4ef5eddc-fc4e-4f20-b1c6-a75dd86aebfe"
+            ]
+          },
+          {
+            "id": "cd564da7-8695-420c-9b69-e507e467088d",
+            "sheetNav": {
+              "title": "Tech",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "menuItemIds": [
+              "fbfbf675-62af-4da5-8b0b-3d39646bddcd",
+              "22374612-c686-4e9c-8f3d-29e7a1691174",
+              "1f51f09a-2219-41e5-8761-75a235378ff8",
+              "dde1415f-696b-460d-91fe-6e6cd0582d30",
+              "fc441574-43c8-4547-b13e-a6c624aa83bd",
+              "8074a077-9abb-45de-ae81-d78658b68bb5",
+              "180257a9-55d8-465d-8d1b-7043817231b7"
+            ]
+          },
+          {
+            "id": "102d9db1-d571-45f6-8b32-ab17a2bfbb84",
+            "sheetNav": {
+              "title": "Loyalty",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "menuItemIds": [
+              "af31b630-0ad3-408e-be3e-c5155cc54e49",
+              "66edacb4-4415-4972-81cf-d4304d98f1a3",
+              "b54f160a-62e4-4f98-8aac-314218b3c076",
+              "d0c9ae69-318a-4d88-8899-a23104f4b858"
+            ]
+          },
+          {
+            "id": "88ffdbf7-8879-4a63-9017-48fdd5d7e8d7",
+            "sheetNav": {
+              "title": "Upgrade",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "banner": {
+              "type": "default",
+              "title": "You've still got an amount left on your device loan. ",
+              "body": "It'll need to be paid before you can upgrade."
+            },
+            "menuItemIds": ["1a45c4b2-f217-4cb5-a988-d8355b4f460f"]
+          },
+          {
+            "id": "a19acb9f-0fc1-4ab8-97c2-30b289d78f64",
+            "sheetNav": {
+              "title": "Retentions",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "banner": {
+              "type": "default",
+              "title": "You've still got an amount left on your device loan.",
+              "body": "It'll need to be paid before you can cancel your contract."
+            },
+            "menuItemIds": [
+              "84fafa12-23f1-4f92-9131-a5e99ce28e44",
+              "3042e50d-fdd6-4bd0-95b9-b1dd2054fdd7"
+            ]
+          },
+          {
+            "id": "28769f2a-74d0-41cb-a24f-71f60ca29559",
+            "sheetNav": {
+              "title": "Upgrades",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "banner": {
+              "type": "default",
+              "title": "Great news, you're eligible for an upgrade!",
+              "body": "Please select an option below."
+            },
+            "menuItemIds": [
+              "0d97ec28-20bc-4522-858d-26b2a06483b1",
+              "dd1a8113-0b4c-4061-a2c9-d836371e1294"
+            ]
+          },
+          {
+            "id": "34c32b14-e7ae-4394-b7e2-069e00bb3fef",
+            "sheetNav": {
+              "title": "Upgrades",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "banner": {
+              "type": "default",
+              "title": "Great news, you can upgrade early and get the latest handset today!",
+              "body": "You can also reduce any fees involved with your upgrade by trading in your old phone (subject to eligibility rules). Please select an option below."
+            },
+            "menuItemIds": [
+              "9733b5a1-27da-4bce-9ca2-b2e70dcf814d",
+              "ce9e2997-d1e0-4d28-827f-c4503e0547a8"
+            ]
+          },
+          {
+            "id": "751b4044-8028-43c6-932b-77a338e7c19d",
+            "sheetNav": {
+              "title": "Upgrades",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "banner": {
+              "type": "default",
+              "title": "Great news, you can upgrade early and get the latest handset today! You can reduce the fee by giving us your old handset.",
+              "body": "Please select an option from below."
+            },
+            "menuItemIds": [
+              "f07ddf0b-83d2-4775-893f-180cd97b6517",
+              "ff0f97ac-01a4-48c4-8f94-44176e3ae37a"
+            ]
+          },
+          {
+            "id": "6fff6b98-d60d-49d7-be51-7a066007f8a2",
+            "sheetNav": {
+              "title": "Upgrades",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "banner": {
+              "type": "default",
+              "title": "Great news, you can trade your current phone for a new one.",
+              "body": "Please select an option below."
+            },
+            "menuItemIds": [
+              "f8a48846-10dd-48c8-97b3-07c1b3651b43",
+              "3127643b-c5dd-46de-8c68-4c22e47d913d"
+            ]
+          },
+          {
+            "id": "529a1efd-6886-400f-acb0-03929374e575",
+            "sheetNav": {
+              "title": "Upgrades",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "banner": {
+              "type": "default",
+              "title": "We can see you recently asked to leave us.",
+              "body": "If you've changed your mind and would like to stay, please click below to talk to our team."
+            },
+            "menuItemIds": ["e587ba97-2926-4387-a57f-71b937b171e5"]
+          },
+          {
+            "id": "243dbfa5-0d6d-4ce6-afc8-1590ef6d5f27",
+            "sheetNav": {
+              "title": "Upgrades",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "banner": {
+              "type": "default",
+              "title": "You currently aren't eligible to upgrade.",
+              "body": "Please select an option below."
+            },
+            "menuItemIds": [
+              "1c8761cf-ef62-482f-9992-427b3adf02c3",
+              "cf541f35-a08f-48cc-bdcc-e870503917e2"
+            ]
+          },
+          {
+            "id": "1f789012-7aa1-4e69-8f69-f2b5e120b553",
+            "sheetNav": {
+              "title": "Retentions",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "menuItemIds": [
+              "f026a5f8-fb81-47d9-92a6-b5321a4577c5",
+              "fe7be5c1-2e61-4fa9-835d-352994fa44f3",
+              "f0cdf3bb-5742-48cc-a425-c01c11afc047",
+              "4b71091a-e136-489f-a967-33370c07baae"
+            ]
+          },
+          {
+            "id": "0ea845f0-5611-409d-8779-2f6fdaf92f86",
+            "sheetNav": {
+              "title": "Insurance",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "menuItemIds": [
+              "ffe71131-7a59-42af-8067-9809de7fd4d7",
+              "dfceac34-1d16-4c5c-aedd-2cf2e7901a6f",
+              "87248644-2705-448a-bc79-d7dd05c771b5",
+              "556e1dfb-c218-493b-8312-f66ef80a46b5"
+            ]
+          },
+          {
+            "id": "b86baa68-ff14-400f-a9b1-5f5fd3791943",
+            "sheetNav": {
+              "title": "Add-ons",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "menuItemIds": [
+              "6b820366-3679-40d4-8000-84a7e8d92691",
+              "9a41c9a3-dc81-4a6b-b455-6cb4f4e98599",
+              "f410bfd9-4a9c-49fa-9f72-f1f6ab97110c"
+            ]
+          },
+          {
+            "id": "03e0b5c2-819f-4018-971f-0a045bd552f0",
+            "sheetNav": {
+              "title": "Usage",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "menuItemIds": [
+              "1d94ddc8-ebc7-4452-8905-aa0c4a7b177f",
+              "627aa3dc-ac34-44b2-9d76-a0c0f4840666"
+            ]
+          },
+          {
+            "id": "2d6bedbf-e222-457d-a42f-c17e9ec6f298",
+            "sheetNav": {
+              "title": "Plan",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "banner": {
+              "type": "default",
+              "title": "Contact an EE Guide",
+              "body": "Speak with one of our EE Guides by selecting a contact option. Get in touch and we'll reply as soon as we can"
+            },
+            "menuItemIds": [
+              "65dcc06a-bf9f-4c51-a0e4-1591aac765a6",
+              "44e4220e-ae5d-43d9-bc75-4489e48fd525"
+            ]
+          },
+          {
+            "id": "87203df1-9cb6-41ba-92ff-e27f732e718a",
+            "sheetNav": {
+              "title": "Plan",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "banner": {
+              "type": "default",
+              "title": "Contact an EE Guide",
+              "body": "Speak with one of our EE Guides by selecting a contact option. Get in touch and we'll reply as soon as we can"
+            },
+            "menuItemIds": [
+              "969c823d-6cf3-44a3-a03a-c057ccdc4279",
+              "010dd5f7-c0b4-4e92-9cb0-7fb3e15bff53"
+            ]
+          },
+          {
+            "id": "14341d47-28cc-4c2f-a6cc-354251464f40",
+            "sheetNav": {
+              "title": "Gift",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "banner": {
+              "type": "default",
+              "title": "Contact an EE Guide",
+              "body": "Speak with one of our EE Guides by selecting a contact option. Get in touch and we'll reply as soon as we can"
+            },
+            "menuItemIds": [
+              "526dd4e4-0b66-46bc-85c3-1a7bade44129",
+              "afa7facb-e75f-40af-9dfb-2e5b1364bc24"
+            ]
+          },
+          {
+            "id": "906e3ee2-1fab-4ff0-9dc0-122987c7d6c0",
+            "sheetNav": {
+              "title": "Anything Else",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "banner": {
+              "type": "default",
+              "title": "Contact an EE Guide",
+              "body": "Speak with one of our EE Guides by selecting a contact option. Get in touch and we'll reply as soon as we can"
+            },
+            "menuItemIds": [
+              "6fc9e63d-4922-446f-8ef3-2f2aae280011",
+              "436b0b14-388e-4727-8ba2-8dddc960a46b"
+            ]
+          },
+          {
+            "id": "2909aed8-057f-4003-95e3-4a954000f917",
+            "sheetNav": {
+              "title": "SIM",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "banner": {
+              "type": "default",
+              "title": "Contact an EE Guide",
+              "body": "Speak with one of our EE Guides by selecting a contact option. Get in touch and we'll reply as soon as we can"
+            },
+            "menuItemIds": [
+              "e4691eac-0c67-4913-b25a-330674f3b1cf",
+              "6948ef55-daac-48de-ade9-12aa84392677"
+            ]
+          },
+          {
+            "id": "52002945-7e11-42a5-807b-5cec03831751",
+            "sheetNav": {
+              "title": "SIM Activation",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "banner": {
+              "type": "default",
+              "title": "Contact an EE Guide",
+              "body": "Speak with one of our EE Guides by selecting a contact option. Get in touch and we'll reply as soon as we can"
+            },
+            "menuItemIds": [
+              "ff8ccc6b-34d5-4d14-809e-4509b3d272e4",
+              "f89c3da1-7bbb-4abe-87e2-d7626711f6dd"
+            ]
+          },
+          {
+            "id": "3f02271e-6e12-4a15-a7c0-f0076248414e",
+            "sheetNav": {
+              "title": "Parental Controls",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "menuItemIds": [
+              "143b8499-3c10-4ce4-8ed6-711b2cb402a2",
+              "1c1156cf-4d2e-4176-9dc9-c309a8c71d73"
+            ]
+          },
+          {
+            "id": "456cb30f-be3b-47af-b47e-01cf6bda863d",
+            "sheetNav": {
+              "title": "Address Change",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "menuItemIds": [
+              "3a350406-cc84-475a-a52c-d6420e775ac4",
+              "5ab70c6b-fad6-4357-8698-c533af93505b"
+            ]
+          },
+          {
+            "id": "8f89d520-e6d3-4666-92ba-f912a2ff69eb",
+            "sheetNav": {
+              "title": "Anything Else",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "banner": {
+              "type": "default",
+              "title": "Contact an EE Guide",
+              "body": "Speak with one of our EE Guides by selecting a contact option. Get in touch and we'll reply as soon as we can"
+            },
+            "menuItemIds": [
+              "6fc9e63d-4922-446f-8ef3-2f2aae280011",
+              "351ec75a-4ec7-4054-8835-58b39d882c5b"
+            ]
+          },
+          {
+            "id": "5530011a-8aa2-43f0-86b2-aa3931b43264",
+            "sheetNav": {
+              "title": "Roaming",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "menuItemIds": [
+              "7028c660-9d51-4f1c-80dc-25909a0fff60",
+              "f609f544-e4d7-46c3-953c-7648052ecdc7",
+              "8eda15ac-12c4-47bd-ab93-c53fead31a0f"
+            ]
+          },
+          {
+            "id": "bceeab72-44c5-426b-832a-6c32a7601309",
+            "sheetNav": {
+              "title": "Handset Problems",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "banner": {
+              "type": "default",
+              "title": "You can now book an appointment at one of your local stores.",
+              "body": "It's quicker and easier to get your phone fixed with one of our gurus in store. They can help diagnose any issues, organise a repair and give your device a MOT. Tap below to book an appointment."
+            },
+            "menuItemIds": [
+              "9586065f-b9cf-47b9-8e18-3ca672a90c1e",
+              "c14187b8-7207-4623-9660-ddb6d6e62312"
+            ]
+          },
+          {
+            "id": "ebb3c914-a2c7-4434-afae-805dc2afd20e",
+            "sheetNav": {
+              "title": "Call Back",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "input": {
+              "message": "Please type a short summary of your query, including any error messages you see. One of our dedicated team will then call you back within the next 15 minutes to help",
+              "maxLength": 150,
+              "minLines": 5,
+              "hint": "",
+              "minCharacterCount": 2,
+              "showCharacterCount": true,
+              "button": {
+                "title": "SUBMIT",
+                "actionId": "BOOKCALLBACK_MOBILE_DEVICES"
+              }
+            }
+          },
+          {
+            "id": "8139060f-9a7b-43ce-822d-864112fed323",
+            "sheetNav": {
+              "title": "Password Manager",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "banner": {
+              "type": "default",
+              "title": "Password Reset Support",
+              "body": "If you need to reset any passwords please tap on the buttons below to go straight to the reset page."
+            },
+            "menuItemIds": [
+              "6399a54f-223b-4611-89ae-dd7bb8403cc5",
+              "86ec975b-dee9-4f91-82d6-3307f321a64c",
+              "2353ea55-399d-48ce-a67e-820e5dbe5b81",
+              "91414b19-5a4d-4b27-8b9b-07ee9ed31cd5",
+              "4722db23-f30c-4654-96fd-9715285a8660",
+              "5dfdf5ec-5338-4ccc-896c-baca9b37943f"
+            ]
+          },
+          {
+            "id": "3ad8370e-e80b-4c49-9e61-00a0bae944f2",
+            "sheetNav": {
+              "title": "Call back",
+              "backButtonVisible": true,
+              "closeButtonVisible": true
+            },
+            "input": {
+              "message": "Please type a short summary of your query, including any error messages you see. One of our dedicated team will then call you back within the next 15 minutes to help",
+              "maxLength": 150,
+              "minLines": 5,
+              "hint": "",
+              "minCharacterCount": 2,
+              "showCharacterCount": true,
+              "button": {
+                "title": "SUBMIT",
+                "actionId": "BOOKCALLBACK_MOBILE_PRODUCTS"
+              }
+            }
+          }
+        ],
+        "menuItems": [
+          {
+            "id": "3a24e016-bd1c-4836-a677-4fa8575402c8",
+            "name": "Mobile Phone",
+            "description": "For everything to do with your mobile phone",
+            "image": "ee_smartphone.svg",
+            "nextPageId": "b2c7c087-bf55-40a9-916e-13e1825814d8"
+          },
+          {
+            "id": "2b56c1aa-549e-4217-96a0-ae40cd580a7d",
+            "name": "Home Broadband",
+            "description": "For anything to do with your fixed home broadband and landline",
+            "image": "ee_wifi.svg",
+            "nextPageId": "03776dc6-30ae-4031-82bc-120ff735a272"
+          },
+          {
+            "id": "fcee6c74-6319-4388-bb40-ebb2e7c6983f",
+            "name": "Connected Device",
+            "description": "For your watch, tablet or mobile Wi-Fi devices",
+            "image": "ee_devices.svg",
+            "nextPageId": "8b7175c5-cdd1-4d20-9ead-80b91c968a0a"
+          },
+          {
+            "id": "e0174e4c-9e87-4c5a-a697-42e79b82ac4f",
+            "name": "Home Security",
+            "description": "For everything to do with your home security devices",
+            "image": "ee_security.svg",
+            "nextPageId": "59685ef7-0560-4bfc-9354-caf6fbd24e2f"
+          },
+          {
+            "id": "2a79efc9-04ac-4516-8cc5-0f75989f33a8",
+            "name": "Broadband tech",
+            "description": "For signal issues, router problems and more",
+            "image": "ee_setup.svg",
+            "nextPageId": "c681adbb-f457-40ae-a5d1-28755082a4b1"
+          },
+          {
+            "id": "df2b8a90-fabb-4d70-9cd3-4a26690f61c2",
+            "name": "Broadband loyalty",
+            "description": "Chat about upgrading, changing or cancelling plans",
+            "image": "ee_heart.svg",
+            "actionId": "BB_LOY__LOYALTY_UI3OR4_TRUE"
+          },
+          {
+            "id": "a816b8af-4901-4e75-a29e-7dacc263e7f2",
+            "name": "Home move",
+            "description": "Starting a new home move or checking progress",
+            "image": "ee_van.svg",
+            "nextPageId": "08a1f250-cc14-4431-92d5-793029ea66a5"
+          },
+          {
+            "id": "c1008ed0-785f-4d40-bb94-0922ec8eb9db",
+            "name": "Discuss an open order",
+            "description": "Anything relating to a recent or newly opened order",
+            "image": "ee_call_centre.svg",
+            "actionId": "BB_LOY__LOYALTY_UI3OR4_TRUE"
+          },
+          {
+            "id": "bd0e383e-2405-45fb-a2ba-28c9fd614082",
+            "name": "New fault",
+            "description": "Reporting a new fault",
+            "image": "ee_add_01.svg",
+            "actionId": "BB_TECH__NEWFAULT"
+          },
+          {
+            "id": "c6cdc30b-4da0-4e37-9ec6-23b6e47bc55d",
+            "name": "Existing fault",
+            "description": "Check on an existing fault",
+            "image": "ee_download.svg",
+            "actionId": "BB_TECH__EXISTINGFAULT"
+          },
+          {
+            "id": "55023482-7cf3-4aa2-9bea-14ac59cc3691",
+            "name": "Pay your bill",
+            "description": "With an existing or new card",
+            "image": "ee_payment.svg",
+            "actionId": "BB_BILL__PAYYOURBILL"
+          },
+          {
+            "id": "0bb37054-95e0-444c-928d-c645a2f3f38e",
+            "name": "For anything else",
+            "description": "Speak to a guide",
+            "image": "ee_call_centre.svg",
+            "actionId": "BB_BILL__SPEAKTOSOMEONE"
+          },
+          {
+            "id": "2411b1ef-60ab-4834-a4e0-ae4b0fcb00fe",
+            "name": "Broadband billing",
+            "description": "Account changes, make or change payments",
+            "image": "ee_bill.svg",
+            "actionId": "BB_BILL__BILLING_NOACTIVE_DD"
+          },
+          {
+            "id": "e7a805e1-d83a-44cc-86bf-4f0f8390f8c4",
+            "name": "Existing home move",
+            "description": "Already spoken to us and looking for an update?",
+            "image": "ee_van.svg",
+            "actionId": "BB_HOMEMOVE__EXISTINGMOVE"
+          },
+          {
+            "id": "09ccfc72-b6c1-47f3-ba60-b12e39a44666",
+            "name": "New home move",
+            "description": "Transferring existing broadband to your new home",
+            "image": "ee_add_circle.svg",
+            "actionId": "BB_HOMEMOVE__NEWMOVE"
+          },
+          {
+            "id": "729b3cf2-dbb0-4909-9c0b-10c0d10e3a87",
+            "name": "Smart WiFi",
+            "description": "Part of your broadband package",
+            "image": "ee_wifi.svg",
+            "actionId": "MBB_SMARTWIFI"
+          },
+          {
+            "id": "24ad9037-636e-4194-a04b-d422c798cb88",
+            "name": "Connected device",
+            "description": "Watches, Mi-Fi, tablets and laptops",
+            "image": "ee_devices.svg",
+            "nextPageId": "37cfa7e74-42c1-4d17-b1ff-a7946af43f66"
+          },
+          {
+            "id": "b0e6e549-2d89-46e9-8031-78d1ab2b3bfd",
+            "name": "Pay monthly",
+            "description": "",
+            "image": "ee_bill.svg",
+            "nextPageId": "7219d840-9941-4a13-ba9a-d9b1de79678c"
+          },
+          {
+            "id": "c0710b85-a77d-4a32-83ae-9383455da68a",
+            "name": "Pay as you go",
+            "description": "",
+            "image": "ee_payment.svg",
+            "nextPageId": "85409449-2b8d-48d6-b836-c2b381a6c58c"
+          },
+          {
+            "id": "96db0124-e033-425f-9158-d647aa54638c",
+            "name": "Tech support",
+            "description": "Technical support with your signal and device",
+            "image": "ee_setup.svg",
+            "actionId": "MBB_SUPPORT__PAYM___TECH"
+          },
+          {
+            "id": "4449260e-459f-410b-8546-c1ec0fd1f9d8",
+            "name": "Billing",
+            "description": "For billing queries and bill payments",
+            "image": "ee_bill.svg",
+            "actionId": "MBB_SUPPORT__PAYM___BILLING"
+          },
+          {
+            "id": "c05f3f08-c0c9-4b5b-8f92-5fec9a8c9704",
+            "name": "Upgrades & retentions",
+            "description": "For upgrades, retentions or adding new lines",
+            "image": "ee_heart.svg",
+            "nextPageId": "c11d5e00-924f-40d7-b1b2-2348c85ef3ba"
+          },
+          {
+            "id": "197e3bde-7fb8-42e2-ba03-4928ef2b66d9",
+            "name": "Lost & stolen",
+            "description": "Insurance claims and reporting damaged, lost or stolen devices",
+            "image": "ee_insurance.svg",
+            "actionId": "MBB_SUPPORT__PAYM___LOSTORSTOLEN"
+          },
+          {
+            "id": "af58da60-b2c4-4afa-ae1f-3cda44de6f95",
+            "name": "Add TNT Sport",
+            "description": "Check out Season Pass, TNT Sport Ultimate and all other packages",
+            "image": "ee_sport1.svg",
+            "actionId": "MBB_SUPPORT__PAYM___ADDBTSPORT"
+          },
+          {
+            "id": "3c52f75b-a8ec-44f5-a8ca-35fc6668ae07",
+            "name": "Track your delivery",
+            "description": "For information about your DPD delivery",
+            "image": "ee_van.svg",
+            "nextPageId": "dcfea6da-6914-4793-8bb0-c9e842a645f8"
+          },
+          {
+            "id": "8598e2ff-25d5-42be-8de0-f6f9bc95558b",
+            "name": "Chat about an upgrade",
+            "description": "See what deals are available",
+            "image": "ee_call_centre.svg",
+            "actionId": "MBB_SUPPORT__PAYM___LOYALTY____TALKABOUTUPGRADE"
+          },
+          {
+            "id": "1d9a43eb-d239-4349-9e41-95f9a66234e7",
+            "name": "Add a new line",
+            "description": "To buy a new data SIM",
+            "image": "ee_add_01.svg",
+            "actionId": "MBB_SUPPORT__PAYM___LOYALTY____ADDANEWLINE"
+          },
+          {
+            "id": "6fd7c4dc-17cb-4b75-8cd9-f76d2595a074",
+            "name": "Chat to us about leaving",
+            "description": "Discuss your options",
+            "image": "ee_external_link.svg",
+            "actionId": "MBB_SUPPORT__PAYM___LOYALTY____LEAVINGUS"
+          },
+          {
+            "id": "c928ea39-5100-445c-aec1-8879ebcc9310",
+            "name": "Tech support",
+            "description": "Technical support with your signal and device",
+            "image": "ee_setup.svg",
+            "actionId": "MBB_SUPPORT__PAYG___TECH"
+          },
+          {
+            "id": "7f5d7616-fac8-4dc6-b23b-ad42127311a6",
+            "name": "Billing",
+            "description": "For billing queries and bill payments",
+            "image": "ee_bill.svg",
+            "nextPageId": "c38b650e-d1bf-47a3-a811-94edfd48ff34"
+          },
+          {
+            "id": "a3df030e-0910-4177-a53a-4b436fcaabcb",
+            "name": "Upgrades & retentions",
+            "description": "For upgrades, retentions or adding new lines",
+            "image": "ee_heart.svg",
+            "nextPageId": "1b82f00c-fe10-45a9-8eb7-e0242c4736ee"
+          },
+          {
+            "id": "30222a3c-9bd2-48a3-839a-f3c3850ea635",
+            "name": "Lost & stolen",
+            "description": "Insurance claims and reporting damaged, lost or stolen devices",
+            "image": "ee_insurance.svg",
+            "actionId": "MBB_SUPPORT__PAYG___LOSTORSTOLEN"
+          },
+          {
+            "id": "fa6cb767-f96e-4578-9b10-b1e384f34095",
+            "name": "Add TNT Sport",
+            "description": "Check out Season Pass, TNT Sport Ultimate and all other packages",
+            "image": "ee_sport1.svg",
+            "actionId": "MBB_SUPPORT__PAYG___ADDBTSPORT"
+          },
+          {
+            "id": "cd7cb783-5e46-44c4-a7c0-8658b624c6b2",
+            "name": "Top up",
+            "description": "To top up your account with credit",
+            "image": "ee_arrow_up_circle.svg",
+            "actionId": "MBB_SUPPORT__PAYG___BILLING____TOPUP"
+          },
+          {
+            "id": "a7fb0afd-7dc7-4a25-883a-a45599576a36",
+            "name": "For anything else",
+            "description": "Speak to a guide",
+            "image": "ee_call_centre.svg",
+            "actionId": "MBB_SUPPORT__PAYG___BILLING____ANYTHINGELSE"
+          },
+          {
+            "id": "4a39a15c-5e17-4d9e-8a2b-40b1ef6f9e35",
+            "name": "Track your delivery",
+            "description": "For information about your DPD delivery",
+            "image": "ee_van.svg",
+            "nextPageId": "dcfea6da-6914-4793-8bb0-c9e842a645f8"
+          },
+          {
+            "id": "fcfae5db-1a8f-49ec-99d4-d90e94891cbe",
+            "name": "Chat about an upgrade",
+            "description": "Discuss your options",
+            "image": "ee_call_centre.svg",
+            "actionId": "MBB_SUPPORT__PAYG___LOYALTY____TALKABOUTUPGRADE"
+          },
+          {
+            "id": "86088572-9f38-4902-a78b-2ca3ecae3503",
+            "name": "Customer care",
+            "description": "For everything to do with your mobile bill and more",
+            "image": "ee_bill.svg",
+            "nextPageId": "0a08b8db-2467-41a7-841a-f525cafa8884"
+          },
+          {
+            "id": "56873d79-e092-4dbc-a3e7-b2bdb5c2b9cd",
+            "name": "Tech support",
+            "description": "For technical support and functionality",
+            "image": "ee_setup.svg",
+            "nextPageId": "cd564da7-8695-420c-9b69-e507e467088d"
+          },
+          {
+            "id": "b5b685f6-3bd1-41f6-86f6-f7a62125c584",
+            "name": "Upgrades & retentions",
+            "description": "For upgrades, returns or if you're thinking of leaving EE",
+            "image": "ee_arrow_up_circle.svg",
+            "nextPageId": "102d9db1-d571-45f6-8b32-ab17a2bfbb84"
+          },
+          {
+            "id": "af24ca08-ea5a-42d6-9756-5c7a75517e96",
+            "name": "Roaming",
+            "description": "For activation, roaming addons and costs",
+            "image": "ee_plane.svg",
+            "nextPageId": "5530011a-8aa2-43f0-86b2-aa3931b43264"
+          },
+          {
+            "id": "b80d4694-cb9a-4858-9120-60a01ff520a0",
+            "name": "Insurance",
+            "description": "For lost, stolen or damaged devices",
+            "image": "ee_insurance.svg",
+            "nextPageId": "0ea845f0-5611-409d-8779-2f6fdaf92f86"
+          },
+          {
+            "id": "2df0e30a-05c2-429b-904e-12818e6836ea",
+            "name": "Return a device",
+            "description": "Use our automation to complete a return for a recent upgrade or order",
+            "image": "ee_360_active.svg",
+            "actionId": "MOB_RETURNS"
+          },
+          {
+            "id": "cc6d6f4a-b64c-426d-a58d-b20ee0ad635f",
+            "name": "Purchase add-ons",
+            "description": "TNT Sports, Apple Music and other entertainment add-ons",
+            "image": "ee_add_on.svg",
+            "nextPageId": "b86baa68-ff14-400f-a9b1-5f5fd3791943"
+          },
+          {
+            "id": "2fefad43-12be-4a89-8c32-050fb5a9c13f",
+            "name": "Billing",
+            "description": "To view and pay your bill and direct debit enquiries",
+            "image": "ee_bill.svg",
+            "nextPageId": "3a7db3c9-c5fa-4800-9af1-aaa1f520998e"
+          },
+          {
+            "id": "dee65308-e870-4838-8664-ff2539e03d82",
+            "name": "Plan details",
+            "description": "For current usage, data gifting and spend caps",
+            "image": "ee_documents.svg",
+            "nextPageId": "4e220bd5-1fb4-4bb0-8a20-21c3685efb1d"
+          },
+          {
+            "id": "180257a9-55d8-465d-8d1b-7043817231b7",
+            "name": "Password manager",
+            "description": "For password reset links for our most used apps",
+            "image": "ee_settings.svg",
+            "nextPageId": "8139060f-9a7b-43ce-822d-864112fed323"
+          },
+          {
+            "id": "70749f10-cf4e-499a-9742-3cc1cba10b9f",
+            "name": "Pay your bill",
+            "description": "To set-up, amend or cancel in our automated payment line",
+            "image": "ee_bill.svg",
+            "actionId": "MOB_BILL__PAYYOURBILL"
+          },
+          {
+            "id": "3d371f77-cf50-4089-a5da-c95181f217d4",
+            "name": "For direct debit",
+            "description": "To set-up, amend or cancel",
+            "image": "ee_blog.svg",
+            "actionId": "MOB_BILL__DIRECTDEBIT"
+          },
+          {
+            "id": "57880f09-d62e-4a85-a9c4-7a0b6c521d34",
+            "name": "Speak about your bill",
+            "description": "To speak about your latest bill",
+            "image": "ee_call_centre.svg",
+            "nextPageId": "42bedd4c-a42b-40a2-83e3-41efc08e2da6"
+          },
+          {
+            "id": "254c9e51-f48c-4dc3-8af3-0608a9369887",
+            "name": "Speak about your bill",
+            "description": "To speak about your latest bill",
+            "image": "ee_call_centre.svg",
+            "actionId": "MOB_BILL__ANYTHINGELSE"
+          },
+          {
+            "id": "840ea67b-d1cc-49fa-a3f5-304d84a8151a",
+            "name": "Spend caps",
+            "description": "Change, add, remove and pause your spend cap",
+            "image": "ee_bill.svg",
+            "actionId": "MOB_BILL__ANYTHINGELSE"
+          },
+          {
+            "id": "abc4fa90-e18c-40a0-8ecc-2570afbf45fb",
+            "name": "Unlock handset",
+            "description": "Unlock your handset and check status",
+            "image": "ee_unlock.svg",
+            "actionId": "MOB_UNLOCKING"
+          },
+          {
+            "id": "fe806bcb-e029-4541-a853-497c7bbcc187",
+            "name": "Port in",
+            "description": "Port in a number from a different network",
+            "image": "ee_data.svg",
+            "actionId": "MOB_BILL__ANYTHINGELSE"
+          },
+          {
+            "id": "fbfbf675-62af-4da5-8b0b-3d39646bddcd",
+            "name": "Network problems",
+            "description": "Signal, text and data issues",
+            "image": "ee_network_no.svg",
+            "actionId": "MOB_TECH__NETWORKPROBLEMS"
+          },
+          {
+            "id": "dde1415f-696b-460d-91fe-6e6cd0582d30",
+            "name": "EE App and TNT Sport",
+            "description": "For any login or access issues",
+            "image": "ee_sport1.svg",
+            "actionId": "MOB_TECH__ANYTHINGELSE"
+          },
+          {
+            "id": "fc441574-43c8-4547-b13e-a6c624aa83bd",
+            "name": "Content lock",
+            "description": "Switch your content lock on or off",
+            "image": "ee_lock.svg",
+            "actionId": "MOB_TECH__CONTENTLOCK"
+          },
+          {
+            "id": "8074a077-9abb-45de-ae81-d78658b68bb5",
+            "name": "Voicemail",
+            "description": "Switch your voicemail on or off",
+            "image": "ee_envelope.svg",
+            "actionId": "MOB_TECH__VOICEMAIL"
+          },
+          {
+            "id": "8e6c0a3a-da33-476e-b1f9-025865996d42",
+            "name": "Upgrade",
+            "description": "For early, anytime, handset and sim upgrades",
+            "image": "ee_arrow_up_circle.svg",
+            "nextPageId": "88ffdbf7-8879-4a63-9017-48fdd5d7e8d7"
+          },
+          {
+            "id": "af31b630-0ad3-408e-be3e-c5155cc54e49",
+            "name": "Upgrade",
+            "description": "For early, anytime, handset and sim upgrades",
+            "image": "ee_arrow_up_circle.svg",
+            "nextPageId": "28769f2a-74d0-41cb-a24f-71f60ca29559"
+          },
+          {
+            "id": "66edacb4-4415-4972-81cf-d4304d98f1a3",
+            "name": "Purchase add-ons",
+            "description": "TNT Sport, Apple Music and other entertainment or data add-ons",
+            "image": "ee_add_on.svg",
+            "nextPageId": "b86baa68-ff14-400f-a9b1-5f5fd3791943"
+          },
+          {
+            "id": "b54f160a-62e4-4f98-8aac-314218b3c076",
+            "name": "Thinking of leaving us?",
+            "description": "For PAC, STAC and disconnections",
+            "image": "ee_external_link.svg",
+            "nextPageId": "1f789012-7aa1-4e69-8f69-f2b5e120b553"
+          },
+          {
+            "id": "d0c9ae69-318a-4d88-8899-a23104f4b858",
+            "name": "Return within 14 days",
+            "description": "Returning a recent order? Get help here",
+            "image": "ee_360.svg",
+            "actionId": "MOB_RETURNS"
+          },
+          {
+            "id": "1a45c4b2-f217-4cb5-a988-d8355b4f460f",
+            "name": "Speak about an upgrade",
+            "description": "Discuss your loan balance amount",
+            "image": "ee_call_centre.svg",
+            "actionId": "MOB_LOY__UPGR_DENVER___SPEAKABOUTUPGRADE"
+          },
+          {
+            "id": "84fafa12-23f1-4f92-9131-a5e99ce28e44",
+            "name": "Purchase add-ons",
+            "description": "TNT Sport, Apple Music and other entertainment add-ons",
+            "image": "ee_add_on.svg",
+            "nextPageId": "b86baa68-ff14-400f-a9b1-5f5fd3791943"
+          },
+          {
+            "id": "3042e50d-fdd6-4bd0-95b9-b1dd2054fdd7",
+            "name": "Speak about leaving",
+            "description": "Discuss your loan balance amount",
+            "image": "ee_call_centre.svg",
+            "actionId": "MOB_LOY__LEAVE_DENVER___SPEAKABOUTLEAVING"
+          },
+          {
+            "id": "dd1a8113-0b4c-4061-a2c9-d836371e1294",
+            "name": "Upgrade options",
+            "description": "Speak to a Guide about your latest offers",
+            "image": "ee_call_centre.svg",
+            "actionId": "MOB_LOY__UPGRADE_ELIGIBLE_YU"
+          },
+          {
+            "id": "ce9e2997-d1e0-4d28-827f-c4503e0547a8",
+            "name": "Talk to us",
+            "description": "Speak to a Guide about your offers",
+            "image": "ee_call_centre.svg",
+            "actionId": "MOB_LOY__UPGRADE_ELIGIBLE_A"
+          },
+          {
+            "id": "ff0f97ac-01a4-48c4-8f94-44176e3ae37a",
+            "name": "Upgrade options",
+            "description": "Speak to a Guide about your offers",
+            "image": "ee_call_centre.svg",
+            "actionId": "MOB_LOY__UPGRADE_ELIGIBLE_E_EARLY"
+          },
+          {
+            "id": "f026a5f8-fb81-47d9-92a6-b5321a4577c5",
+            "name": "Chat about leaving us",
+            "description": "Discuss your options and get a PAC/STAC",
+            "image": "ee_call_centre.svg",
+            "actionId": "MOB_LOY__LEAVE___SPEAKABOUTLEAVING_ELIGIBLE"
+          },
+          {
+            "id": "fe7be5c1-2e61-4fa9-835d-352994fa44f3",
+            "name": "Return within 14 days",
+            "description": "To return a phone you have recently purchased",
+            "image": "ee_360.svg",
+            "actionId": "MOB_RETURNS"
+          },
+          {
+            "id": "f0cdf3bb-5742-48cc-a425-c01c11afc047",
+            "name": "Chat about cancelling a different number",
+            "description": "Discuss your options",
+            "image": "ee_call_centre.svg",
+            "actionId": "MOB_LOY__LEAVE___SPEAKABOUTLEAVING_ELIGIBLE"
+          },
+          {
+            "id": "4b71091a-e136-489f-a967-33370c07baae",
+            "name": "EE App",
+            "description": "Check the EE app for your options on leaving and cancelling",
+            "image": "ee_globe.svg",
+            "actionId": "MOB_LOY__LEAVE___SPEAKABOUTLEAVING_ELIGIBLE_WEB"
+          },
+          {
+            "id": "ffe71131-7a59-42af-8067-9809de7fd4d7",
+            "name": "Lost or stolen claims",
+            "description": "For lost or stolen claims",
+            "image": "ee_search.svg",
+            "actionId": "MOB_INS__NEWCLAIM"
+          },
+          {
+            "id": "dfceac34-1d16-4c5c-aedd-2cf2e7901a6f",
+            "name": "Damage claims",
+            "description": "For damage claims to your handset",
+            "image": "ee_insurance.svg",
+            "actionId": "MOB_INS__NEWCLAIM"
+          },
+          {
+            "id": "6b820366-3679-40d4-8000-84a7e8d92691",
+            "name": "TNT Sport",
+            "description": "For Champions League and Premier League games, UFC, discovery+ and much more",
+            "image": "ee_sport1.svg",
+            "actionId": "MOB_BUYADDON__BTSPORT"
+          },
+          {
+            "id": "9a41c9a3-dc81-4a6b-b455-6cb4f4e98599",
+            "name": "Apple Music",
+            "description": "To add Apple Music to your account",
+            "image": "ee_music.svg",
+            "actionId": "MOB_BUYADDON__APPLEMUSIC"
+          },
+          {
+            "id": "f410bfd9-4a9c-49fa-9f72-f1f6ab97110c",
+            "name": "Entertainment",
+            "description": "Netflix, Gaming Pass and much more",
+            "image": "ee_video_pass.svg",
+            "actionId": "MOB_BUYADDON__ENTERTAINMENT"
+          },
+          {
+            "id": "436b0b14-388e-4727-8ba2-8dddc960a46b",
+            "name": "Speak to us",
+            "description": "Speak to a Guide",
+            "image": "ee_call_centre.svg",
+            "actionId": "MOB_BILL__ANYTHINGELSE"
+          },
+          {
+            "id": "ccc8f8be-a09a-4f6b-bde6-ced24b6b2582",
+            "name": "Replacement SIM",
+            "description": "Order a replacement SIM",
+            "image": "ee_sim_01.svg",
+            "nextPageId": "2909aed8-057f-4003-95e3-4a954000f917"
+          },
+          {
+            "id": "66a07846-40c6-419d-8c1b-eba517beddc0",
+            "name": "Activate SIM",
+            "description": "Activate a new or replacement SIM",
+            "image": "ee_sim_02.svg",
+            "nextPageId": "52002945-7e11-42a5-807b-5cec03831751"
+          },
+          {
+            "id": "627aa3dc-ac34-44b2-9d76-a0c0f4840666",
+            "name": "Current usage",
+            "description": "Speak to us about your data, text and call allowance",
+            "image": "ee_call_centre.svg",
+            "actionId": "MOB_BILL__ANYTHINGELSE"
+          },
+          {
+            "id": "44e4220e-ae5d-43d9-bc75-4489e48fd525",
+            "name": "Plan information",
+            "description": "Speak to us for Information on your current plan",
+            "image": "ee_call_centre.svg",
+            "actionId": "MOB_BILL__ANYTHINGELSE"
+          },
+          {
+            "id": "010dd5f7-c0b4-4e92-9cb0-7fb3e15bff53",
+            "name": "Price plan",
+            "description": "Speak to us to change or amend your plan",
+            "image": "ee_call_centre.svg",
+            "actionId": "MOB_BILL__ANYTHINGELSE"
+          },
+          {
+            "id": "afa7facb-e75f-40af-9dfb-2e5b1364bc24",
+            "name": "Data gifting",
+            "description": "To speak to us about gifting data",
+            "image": "ee_call_centre.svg",
+            "actionId": "MOB_BILL__ANYTHINGELSE"
+          },
+          {
+            "id": "6948ef55-daac-48de-ade9-12aa84392677",
+            "name": "Speak to us",
+            "description": "To speak to us about a replacement SIM",
+            "image": "ee_call_centre.svg",
+            "actionId": "MOB_BILL__ANYTHINGELSE"
+          },
+          {
+            "id": "f89c3da1-7bbb-4abe-87e2-d7626711f6dd",
+            "name": "Speak to us",
+            "description": "Speak to us about activating a new or replacement sim",
+            "image": "ee_call_centre.svg",
+            "actionId": "MOB_BILL__ANYTHINGELSE"
+          },
+          {
+            "id": "1c1156cf-4d2e-4176-9dc9-c309a8c71d73",
+            "name": "Parental controls",
+            "description": "Speak to us about parental controls for your account",
+            "image": "ee_call_centre.svg",
+            "actionId": "MOB_BILL__ANYTHINGELSE"
+          },
+          {
+            "id": "de3ae305-c825-4bbf-89ba-cd7447fdc62d",
+            "name": "Parental controls",
+            "description": "Update any parental controls for your account",
+            "image": "ee_parental_controls.svg",
+            "nextPageId": "3f02271e-6e12-4a15-a7c0-f0076248414e"
+          },
+          {
+            "id": "5ab70c6b-fad6-4357-8698-c533af93505b",
+            "name": "Speak to us",
+            "description": "Speak to us about changing your billing or postal address",
+            "image": "ee_call_centre.svg",
+            "actionId": "MOB_BILL__ANYTHINGELSE"
+          },
+          {
+            "id": "351ec75a-4ec7-4054-8835-58b39d882c5b",
+            "name": "Speak to us",
+            "description": "Speak to a Guide",
+            "image": "ee_call_centre.svg",
+            "actionId": "MOB_BILL__ANYTHINGELSE"
+          },
+          {
+            "id": "7028c660-9d51-4f1c-80dc-25909a0fff60",
+            "name": "Going abroad",
+            "description": "",
+            "image": "ee_plane.svg",
+            "actionId": "MOB_ROAM__ROAMING_OFF"
+          },
+          {
+            "id": "f609f544-e4d7-46c3-953c-7648052ecdc7",
+            "name": "Currently abroad",
+            "description": "",
+            "image": "ee_globe.svg",
+            "actionId": "MOB_ROAM__ROAMING_OFF"
+          },
+          {
+            "id": "8eda15ac-12c4-47bd-ab93-c53fead31a0f",
+            "name": "Been abroad",
+            "description": "",
+            "image": "ee_home.svg",
+            "actionId": "MOB_BILL__ANYTHINGELSE"
+          },
+          {
+            "id": "22374612-c686-4e9c-8f3d-29e7a1691174",
+            "name": "Handset problems",
+            "description": "For number porting, software and hardware problems",
+            "image": "ee_smartphone.svg",
+            "nextPageId": "bceeab72-44c5-426b-832a-6c32a7601309"
+          },
+          {
+            "id": "9586065f-b9cf-47b9-8e18-3ca672a90c1e",
+            "name": "Book EE Store Repair",
+            "description": "To book an appointment at your local store - Recommended",
+            "image": "ee_calendar.svg",
+            "actionId": "MOB_LOY__BUYADDON_ENTERTAINMENT_WEB"
+          },
+          {
+            "id": "c14187b8-7207-4623-9660-ddb6d6e62312",
+            "name": "Speak to a guide",
+            "description": "",
+            "image": "ee_call_centre.svg",
+            "actionId": "MOB_TECH__ANYTHINGELSE"
+          },
+          {
+            "id": "9fe2f00b-71b1-48a3-a52e-09be4baea742",
+            "name": "Account",
+            "description": "For parental controls, replacement sims, unlocking and more",
+            "image": "ee_setup.svg",
+            "nextPageId": "63709e3a-a131-48d6-8e67-7db109e39874"
+          },
+          {
+            "id": "87248644-2705-448a-bc79-d7dd05c771b5",
+            "name": "Purchase insurance",
+            "description": "Take out insurance for your device",
+            "image": "ee_add_on.svg",
+            "actionId": "MOB_INS__BUYINSURANCE"
+          },
+          {
+            "id": "556e1dfb-c218-493b-8312-f66ef80a46b5",
+            "name": "Cancel your insurance",
+            "description": "Speak to someone about cancelling your cover",
+            "image": "ee_close_circle.svg",
+            "actionId": "MOB_INS__CANCELINSURANCE"
+          },
+          {
+            "id": "6399a54f-223b-4611-89ae-dd7bb8403cc5",
+            "name": "Netflix",
+            "description": "Tap here to reset your password",
+            "image": "ee_multiscreen.svg",
+            "actionId": "MOB_LOY__LEAVE___SPEAKABOUTLEAVING_NOTELIGIBLE_WEB"
+          },
+          {
+            "id": "86ec975b-dee9-4f91-82d6-3307f321a64c",
+            "name": "TNT Sports",
+            "description": "Tap here to reset your password",
+            "image": "ee_sport1.svg",
+            "actionId": "MOB_LOY__BUYADDON_BTSPORT_WEB"
+          },
+          {
+            "id": "2353ea55-399d-48ce-a67e-820e5dbe5b81",
+            "name": "Apple TV",
+            "description": "Tap here to reset your password",
+            "image": "ee_multiscreen.svg",
+            "actionId": "MOB_LOY__BUYADDON_APPLEMUSIC_WEB"
+          },
+          {
+            "id": "91414b19-5a4d-4b27-8b9b-07ee9ed31cd5",
+            "name": "Britbox",
+            "description": "Tap here to reset your password",
+            "image": "ee_multiscreen.svg",
+            "actionId": "MOB_LOY__LEAVE_DENVER___SPEAKABOUTLEAVING_WEB"
+          },
+          {
+            "id": "4722db23-f30c-4654-96fd-9715285a8660",
+            "name": "Xbox Game Pass Ultimate",
+            "description": "Tap here to reset your password",
+            "image": "ee_multiscreen.svg",
+            "actionId": "MOB_BILL__BUYADDON_ROAMING_WEB"
+          },
+          {
+            "id": "5dfdf5ec-5338-4ccc-896c-baca9b37943f",
+            "name": "Microsoft 365",
+            "description": "Tap here to reset your password",
+            "image": "ee_multiscreen.svg",
+            "actionId": "MOB_BILL__ROAMING_WEB"
+          },
+          {
+            "id": "97e2c3eb-b375-4e6a-a881-b53f949b1ade",
+            "name": "Change your address",
+            "description": "Change your billing or postal address",
+            "image": "ee_home.svg",
+            "nextPageId": "456cb30f-be3b-47af-b47e-01cf6bda863d"
+          },
+          {
+            "id": "4ef5eddc-fc4e-4f20-b1c6-a75dd86aebfe",
+            "name": "For anything else",
+            "description": "Speak to a guide",
+            "image": "ee_call_centre.svg",
+            "nextPageId": "8f89d520-e6d3-4666-92ba-f912a2ff69eb"
+          },
+          {
+            "id": "b6370af7-312f-4ea4-aff9-aadc5c9fe91c",
+            "name": "Price plan",
+            "description": "Change or amend your plan",
+            "image": "ee_money_circle.svg",
+            "nextPageId": "87203df1-9cb6-41ba-92ff-e27f732e718a"
+          },
+          {
+            "id": "db59b60b-b979-4871-be5c-8818fa53e751",
+            "name": "Current usage",
+            "description": "See your data, text and call allowance",
+            "image": "ee_smartphone.svg",
+            "nextPageId": "03e0b5c2-819f-4018-971f-0a045bd552f0"
+          },
+          {
+            "id": "980137c2-18fd-4a8d-9f95-d277dc3fd1c7",
+            "name": "Plan information",
+            "description": "Information on your current plan",
+            "image": "ee_documents.svg",
+            "nextPageId": "2d6bedbf-e222-457d-a42f-c17e9ec6f298"
+          },
+          {
+            "id": "30b7d4cf-75cc-4acf-b020-f8af111ec631",
+            "name": "Data gifting",
+            "description": "Gift data between the numbers on your account",
+            "image": "ee_gift.svg",
+            "nextPageId": "14341d47-28cc-4c2f-a6cc-354251464f40"
+          },
+          {
+            "id": "07adf121-5169-46d6-ab79-0938d0a099dc",
+            "name": "For anything else",
+            "description": "Speak to a guide",
+            "image": "ee_call_centre.svg",
+            "nextPageId": "906e3ee2-1fab-4ff0-9dc0-122987c7d6c0"
+          },
+          {
+            "id": "3a350406-cc84-475a-a52c-d6420e775ac4",
+            "name": "Message us",
+            "description": "Get the help you need now from one of our live EE Guides",
+            "image": "ee_chat.svg",
+            "sprinklr": {
+              "customMessage": "I want some help",
+              "customFieldContext": "EE DIVR - Change Address"
+            }
+          },
+          {
+            "id": "143b8499-3c10-4ce4-8ed6-711b2cb402a2",
+            "name": "Message us",
+            "description": "Get the help you need now from one of our live EE Guides",
+            "image": "ee_chat.svg",
+            "sprinklr": {
+              "customMessage": "I want some help",
+              "customFieldContext": "EE DIVR - Parental Controls"
+            }
+          },
+          {
+            "id": "6fc9e63d-4922-446f-8ef3-2f2aae280011",
+            "name": "Message us",
+            "description": "Get the help you need now from one of our live EE Guides",
+            "image": "ee_chat.svg",
+            "sprinklr": {
+              "customMessage": "I want some help",
+              "customFieldContext": "EE DIVR - Anything Else"
+            }
+          },
+          {
+            "id": "ff8ccc6b-34d5-4d14-809e-4509b3d272e4",
+            "name": "Message us",
+            "description": "Get the help you need now from one of our live EE Guides",
+            "image": "ee_chat.svg",
+            "sprinklr": {
+              "customMessage": "I want some help",
+              "customFieldContext": "EE DIVR - Activate Sim"
+            }
+          },
+          {
+            "id": "e4691eac-0c67-4913-b25a-330674f3b1cf",
+            "name": "Message us",
+            "description": "Get the help you need now from one of our live EE Guides",
+            "image": "ee_chat.svg",
+            "sprinklr": {
+              "customMessage": "I want some help",
+              "customFieldContext": "EE DIVR - Replacement Sim"
+            }
+          },
+          {
+            "id": "526dd4e4-0b66-46bc-85c3-1a7bade44129",
+            "name": "Message us",
+            "description": "Get the help you need now from one of our live EE Guides",
+            "image": "ee_chat.svg",
+            "sprinklr": {
+              "customMessage": "I want some help",
+              "customFieldContext": "EE DIVR - Data Gifting"
+            }
+          },
+          {
+            "id": "969c823d-6cf3-44a3-a03a-c057ccdc4279",
+            "name": "Message us",
+            "description": "Get the help you need now from one of our live EE Guides",
+            "image": "ee_chat.svg",
+            "sprinklr": {
+              "customMessage": "I want some help",
+              "customFieldContext": "EE DIVR - Price Plan"
+            }
+          },
+          {
+            "id": "65dcc06a-bf9f-4c51-a0e4-1591aac765a6",
+            "name": "Message us",
+            "description": "Get the help you need now from one of our live EE Guides",
+            "image": "ee_chat.svg",
+            "sprinklr": {
+              "customMessage": "I want some help",
+              "customFieldContext": "EE DIVR - Plan Information"
+            }
+          },
+          {
+            "id": "1d94ddc8-ebc7-4452-8905-aa0c4a7b177f",
+            "name": "Message us",
+            "description": "Get the help you need now from one of our live EE Guides",
+            "image": "ee_chat.svg",
+            "sprinklr": {
+              "customMessage": "I want some help",
+              "customFieldContext": "EE DIVR - Current Usage"
+            }
+          },
+          {
+            "id": "ac289adf-5df2-4ecd-8baa-808d8e983cd6",
+            "name": "Message us",
+            "description": "Get the help you need now from one of our live EE Guides",
+            "image": "ee_chat.svg",
+            "sprinklr": {
+              "customMessage": "I want some help",
+              "customFieldContext": "EE DIVR - Billing"
+            }
+          },
+          {
+            "id": "1c8761cf-ef62-482f-9992-427b3adf02c3",
+            "name": "Message us",
+            "description": "Get the help you need now from one of our live EE Guides",
+            "image": "ee_chat.svg",
+            "sprinklr": {
+              "customMessage": "I want help with an upgrade",
+              "customFieldContext": "EE DIVR - Upgrade Eligible N"
+            }
+          },
+          {
+            "id": "e587ba97-2926-4387-a57f-71b937b171e5 ",
+            "name": "Message us",
+            "description": "Get the help you need now from one of our live EE Guides",
+            "image": "ee_chat.svg",
+            "sprinklr": {
+              "customMessage": "I want help with an upgrade",
+              "customFieldContext": "EE DIVR - Upgrade Eligible PS"
+            }
+          },
+          {
+            "id": "f8a48846-10dd-48c8-97b3-07c1b3651b43",
+            "name": "Message us",
+            "description": "Get the help you need now from one of our live EE Guides",
+            "image": "ee_chat.svg",
+            "sprinklr": {
+              "customMessage": "I want help with an upgrade",
+              "customFieldContext": "EE DIVR - Upgrade Eligible G"
+            }
+          },
+          {
+            "id": "f07ddf0b-83d2-4775-893f-180cd97b6517",
+            "name": "Message us",
+            "description": "Get the help you need now from one of our live EE Guides",
+            "image": "ee_chat.svg",
+            "sprinklr": {
+              "customMessage": "I want help with an upgrade",
+              "customFieldContext": "EE DIVR - Upgrade Eligible E"
+            }
+          },
+          {
+            "id": "0d97ec28-20bc-4522-858d-26b2a06483b1",
+            "name": "Message us",
+            "description": "Get the help you need now from one of our live EE Guides",
+            "image": "ee_chat.svg",
+            "sprinklr": {
+              "customMessage": "I want help with an upgrade",
+              "customFieldContext": "EE DIVR - Upgrade Eligible YU"
+            }
+          },
+          {
+            "id": "9733b5a1-27da-4bce-9ca2-b2e70dcf814d",
+            "name": "Message us",
+            "description": "Get the help you need now from one of our live EE Guides",
+            "image": "ee_chat.svg",
+            "sprinklr": {
+              "customMessage": "I want help with an upgrade",
+              "customFieldContext": "EE DIVR - Early Upgrade Eligible A"
+            }
+          },
+          {
+            "id": "1f51f09a-2219-41e5-8761-75a235378ff8",
+            "name": "Watch",
+            "description": "For any issues with your connected watch",
+            "image": "ee_watch.svg",
+            "actionId": "MOB_TECH__ANYTHINGELSE"
+          },
+          {
+            "id": "dde1415f-696b-460d-91fe-6e6cd0582d30",
+            "name": "EE App and TNT Sport",
+            "description": "For any login or access issues",
+            "image": "ee_sport1.svg",
+            "actionId": "MOB_TECH__ANYTHINGELSE"
+          }
+        ]
+      }
+    },
+    "list": false,
+    "obfuscate": false,
+    "visible": true
+  },
+  "actions": [],
+  "template": null,
+  "parameters": [],
+  "messages": []
+}

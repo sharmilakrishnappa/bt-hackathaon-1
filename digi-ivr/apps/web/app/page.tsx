@@ -1,36 +1,33 @@
 "use client";
-import React from "react";
-import Image from "next/image";
+import React, { useEffect } from "react";
 import styles from "./page.module.css";
-import dynamic from "next/dynamic";
-import { useState, useEffect } from "react";
+// import dynamic from "next/dynamic";
 //import Load from './Load';
-import MainPage from "./Home";
-
-const LoginButton = dynamic(() => import("./LoginButton"), { ssr: false });
+import Image from "next/image";
+import { useRouter } from "next/navigation";
+// const LoginButton = dynamic(() => import("./LoginButton"), { ssr: false });
+/* <LoginButton /> */
 
 export default function Home() {
-  const [isLoading, setIsLoading] = useState(false);
+  const router = useRouter();
 
-  // Start loading when the component mounts
   useEffect(() => {
-    setIsLoading(true);
-  }, []);
+    setTimeout(() => {
+      console.log("timeout over");
+      router.push("/loading");
+    }, 900);
+  }, [router]);
+
   return (
     <div className={styles.page}>
       <main className={styles.main}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <LoginButton />
         <div className="App">
-          {/*<Load isOpen={isLoading} />*/}
-          <MainPage />
+          <Image
+            src="/assets/EEbrandLogo.png"
+            alt="logo"
+            width={100}
+            height={100}
+          />
         </div>
       </main>
     </div>
