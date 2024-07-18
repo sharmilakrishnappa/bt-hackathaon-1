@@ -1,5 +1,4 @@
 import Link from "next/link";
-import three from "./asset/three_g.png";
 
 const cards = [
   {

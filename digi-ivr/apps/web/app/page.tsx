@@ -5,17 +5,22 @@ import styles from "./page.module.css";
 //import Load from './Load';
 import Image from "next/image";
 import { useRouter } from "next/navigation";
-// const LoginButton = dynamic(() => import("./LoginButton"), { ssr: false });
-/* <LoginButton /> */
+import { useAppDispatch } from "../store/hooks";
+import { setData } from "../store/configReducer";
 
-export default function Home() {
+export default function FirstPage() {
   const router = useRouter();
+  const dispatch = useAppDispatch();
 
   useEffect(() => {
-    setTimeout(() => {
-      console.log("timeout over");
-      router.push("/loading");
-    }, 900);
+    fetch("/api", {
+      method: "GET",
+    })
+      .then((res) => res.json())
+      .then((data) => {
+        dispatch(setData(data.data.value.data));
+        router.push("/loading");
+      });
   }, [router]);
 
   return (

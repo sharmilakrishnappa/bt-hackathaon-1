@@ -1,16 +1,18 @@
+"use client";
+import React, { useEffect } from "react";
 import Load from "./Load";
-import dynamic from "next/dynamic";
-import { redirect } from "next/navigation";
+import { useRouter } from "next/navigation";
 
-const Redirect = dynamic(() => import("./Redirect"), { ssr: false });
+const Loading = () => {
+  const router = useRouter();
 
-export function delay() {
-  return new Promise((resolve) => setTimeout(resolve, 900));
-}
-
-export default async function Home() {
-  await delay();
-  redirect("/home");
+  useEffect(() => {
+    setTimeout(() => {
+      router.push("/home");
+    }, 1500);
+  }, []);
 
   return <Load isOpen={true} />;
-}
+};
+
+export default Loading;
