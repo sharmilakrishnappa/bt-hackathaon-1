@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import CardList from "../../Components/CardList";
+import MenuList from "../../Components/MenuList";
 import styles from "../page.module.css";
 import { useSelector } from "react-redux";
 import { getStartingPageData } from "../../store/configReducer";
@@ -38,7 +38,7 @@ const Home = () => {
               <div className="flex justify-center">
                 <hr className="h-px mt-4 w-[160px] bg-gray-200 border-0 dark:bg-gray-700" />
               </div>
-              <CardList />
+              <MenuList items={startingPageData.menuItemIds} />
             </div>
           </div>
         </div>
