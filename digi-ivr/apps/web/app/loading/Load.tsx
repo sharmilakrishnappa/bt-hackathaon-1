@@ -32,12 +32,14 @@ const Load = ({ isOpen }: LoaderProps) => {
     <div className="fixed inset-0 flex items-center justify-center z-50 ">
       <div className="bg-white p-5 rounded-lg flex  justify-between border border-custom-gray w-[293px] h-[150px]">
         <div className="w-64">
-          <h2 className="text-2xl font-bold mb-2 text-center">Loading...</h2>
+          <h2 className="text-2xl font-bold mb-2 text-center text-teal-600">
+            Loading...
+          </h2>
           <p className="text-center">We are getting you where you need to go</p>
           <div className="h-2 w-full bg-gray-300 rounded-full overflow-hidden mt-4">
             <div
               style={{ width: `${progress}%` }}
-              className="h-full bg-blue-500"
+              className="h-full bg-teal-600"
             ></div>
           </div>
         </div>

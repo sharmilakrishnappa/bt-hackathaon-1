@@ -38,7 +38,9 @@ const Home = () => {
               <div className="flex justify-center">
                 <hr className="h-px mt-4 w-[160px] bg-gray-200 border-0 dark:bg-gray-700" />
               </div>
-              <MenuList items={startingPageData.menuItemIds} />
+              <div className="mt-2">
+                <MenuList items={startingPageData.menuItemIds} />
+              </div>
             </div>
           </div>
         </div>
