@@ -6,14 +6,32 @@ import styles from "./page.module.css";
 import Image from "next/image";
 import { useRouter } from "next/navigation";
 import { useAppDispatch } from "../store/hooks";
-import { setData } from "../store/configReducer";
+import { setData, setSessionId } from "../store/configReducer";
 
 export default function FirstPage() {
   const router = useRouter();
   const dispatch = useAppDispatch();
 
   useEffect(() => {
-    fetch("/api", {
+    try {
+      fetch("http://localhost:5000/api/converse", {
+        method: "POST",
+        body: JSON.stringify({
+          dialogueId: "70ff19a2-1222-4e07-90c6-32cf549dd9dc",
+          identifier: "447996428394",
+        }),
+        headers: {
+          "Content-Type": "application/json",
+        },
+      })
+        .then((res) => res.json())
+        .then((data) => {
+          dispatch(setSessionId(data.sessionId));
+        });
+    } catch (error) {
+      console.log("error");
+    }
+    fetch("/api/", {
       method: "GET",
     })
       .then((res) => res.json())

@@ -17,7 +17,7 @@ const Home = () => {
             {startingPageData.topNav ? (
               <div className="w-custom-yellow-banner h-custom-yellow-banner bg-customYellow p-4 flex flex-col items-center justify-center">
                 <div className="font-semibold text-[36px] leading-11 text-center text-black">
-                  {startingPageData.topNav.greeting}
+                  {startingPageData.topNav.greeting} Tabhitha
                 </div>
                 <div className="font-semibold text-[20px] leading-11 text-center text-black mt-2 mb-2 ">
                   {startingPageData.topNav.message}
